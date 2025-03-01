@@ -1,0 +1,42 @@
+Dr. Benjamin 
+Associate Professor
+Computer Engineering 
+PhD Engineering
+12
+B204, Apartment, Thane-58.
+Dr. Harry 
+Associate Professor
+Electronics Engineering 
+PhD Engineering
+5
+A-1001, XYZ Apartment, Mumbai- 56.
+Dr. Tom 
+Professor
+CE
+PhD Engineering
+20
+
+Dr. Sabu 
+Associate Professor
+Data Science
+PhD Data Science
+11
+002, ABC CHS Ltd., Vile Parle, Mumbai.
+Dr. Ajay 
+Associate Professor
+Maths
+PhD Maths
+
+C-103, Abhay CHS Ltd., Andheri(w) Mumbai-56.
+Prof. Aamir
+Assistant Professor
+
+MTech CE
+8
+C-403, Aman CHS Ltd., Goregao, Mumbai-56.
+Prof. Vicky
+
+Extc
+PhD Computer
+NaN
+B-1001, Apartment, Borivali, Mumbai.
